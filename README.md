@@ -4,9 +4,10 @@
 ### *Regulation Technology (Regtech)*
 ```python
 ```
-> ![Nasdqtower](Nasdaqtower.png)
+> ![Nasdaqtower](Nasdaqtower.png)
 
-## Genesis and Growth
+
+## Genesis and Growth Kivuvu
 
 #### Nasdaq (”The company”) is one of the largest stock exchanges in the world headquartered in New York.  Nasdaq stands for  National Association of Securities Dealers Automated Quotations and it was founded in 1971. Nasdaq's initial purpose was to automate the market for securities that were not listed on an exchange at that time. The company was founded by the Securities Dealers Association and the Financial Security Regulatory Industry (FINRA). Back then, traders had to physically be on the counter to be able to trade securities. In the late 1960’s, the US economy rapidly grew, the GDP growth averaged about 5% and wages were growing at an exponential rate. As the average American became confident with the growth, they started to heavily invest in the stock market. As a result, the market had a hard time keeping up with the daily volume of transactions. In order to keep up with the demand, Nasdaq was created in 1971. Before the Company became the large stock exchange as know today, it started as an electronic quotation service that allowed investors to electronically see live prices of various stocks. The electronic execution of trades came shortly after Nasdaq was officially launched. From there, the company grew rapidly to the point that in the mid 80’s it accounted for almost 50% of the US securities market. Sebsequently, Nasdaq was redefined as a stock exchange and tech company. Since the redefinition,tech giants such as Microsoft, Apple and Intel decided be listed on Nasdaq earning itself the repution of the main exchange for the tech companies. The Company continued to grow by acquiring multiple stock exchanges throughout the world and in 1998, it became the first company to offer online trading. Unlike its early days, the Company has multiple sources of income such as its index funds, its Regulatory Business, its tech and product development business, its online Trading Business and various other businesses.
 
@@ -16,6 +17,7 @@
 
 ## Problem Solving and Competitive Advantage
 > ![Nasdaqmarket](Nasdaqmarket.png)
+
 #### Adenza is a Software  provider specialized in capital markets, investments  management, central banking, risk management, regulatory compliance solutions, treasury and  liquidity. Their integrated suite of trading and risk applications are used by banks and other financial institutions to consolidate and streamline their operations. The Main competitors of Nasdaq are New York Stock Exchange (NYSE) and London Stock Exchange (LSE). The advantage Nasdaq has over its competitors is the fact that it is able to take advantage of new technologies earlier since it mainly lists tech companies. In addition, Nasdaq has lower listing fees which allows startups, to be listed as long as they are compliant with Security Exchange Commission (SEC) and the Nasdaq rules. By allowing startups to be listed in the market does not only help these companies to raise money and grow, it also benefits nasdaq because it allows them to stay on top of new technologies in real time. In 2022, Nasdaq generated about $6 billion in revenues which is about 6% higher than 2021 and 10% higher than 2020. About 57% of these revenues was generated from its tech business such as Nasdaq 100 or Invesco QQQ. 
 
 ## Recommendations 
